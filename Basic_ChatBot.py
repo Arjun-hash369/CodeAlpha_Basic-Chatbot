@@ -32,7 +32,7 @@ main()
 
 
 ## 📸 Demo
-(Add LinkedIn video link here)
+(www.linkedin.com/in/arjun-muluk-6aa938376)
 
 ## 🙌 Learning Outcome
 This project helped me understand how chatbots work using basic rule-based logic.
