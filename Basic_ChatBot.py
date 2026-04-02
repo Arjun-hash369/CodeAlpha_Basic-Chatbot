@@ -29,3 +29,10 @@ def main():
 
 # Run the chatbot
 main()
+
+
+## 📸 Demo
+(Add LinkedIn video link here)
+
+## 🙌 Learning Outcome
+This project helped me understand how chatbots work using basic rule-based logic.
